@@ -7,8 +7,8 @@ function Profile() {
   export default function Hero() {
     return (
   <div className="container mx-auto p-2 text-center">
-        <h1 className="text-black font-bold">CV ONLINE</h1>
-        <h1 className="text-2xl:">Putri Amelia Nurfitri</h1>
+        <h1 className="text-blue font-bold text-2xl mb-4">CV ONLINE</h1>
+        <h1 className="text-blue text-2xl mb-4">Putri Amelia Nurfitri</h1>
         <Profile />
         <p>Saya Putri Amelia, mahasiswa Ma'soem University Prodi Sistem Informasi</p>
         </div>
